@@ -55,7 +55,7 @@ LSTMs require more data and parameter tuning compared to the previous models but
 
 # Caveats and Remarks
 
-
+Through this project, we each aim to create 6 different types of time series models to predict new COVID-19 deaths at the country level. By utilizing a substantial amount of COVID-19 trend data, pulled together by Our World in Data, we will be able to utilize time series data to accurately predict deaths based on other factors of a country's profile as well as some newly developed time-series features. The potential impact of this project is to forecast the change in new death cases between countries and infer the influence of these changes based on other factors such as hospital patients, vaccinations, etc. This information can be used to inform public health efforts and direct the distribution of services and care.
 
 
 
