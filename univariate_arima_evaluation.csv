@@ -1,0 +1,41 @@
+Country,Model,MAE,MASE
+US,Baseline ARIMA,391.962,0.553
+US,Grid Search ARIMA,451.4201,0.6369
+US,Seasonal ARIMA,414.3116,0.5846
+US,Auto ARIMA,374.3304,0.5282
+Belgium,Baseline ARIMA,0.8428,0.3161
+Belgium,Grid Search ARIMA,278.8624,104.5734
+Belgium,Seasonal ARIMA,4.5714,1.7143
+Belgium,Auto ARIMA,0.0,0.0
+Chile,Baseline ARIMA,20.9385,0.8002
+Chile,Grid Search ARIMA,21.0022,0.8026
+Chile,Seasonal ARIMA,15.1766,0.58
+Chile,Auto ARIMA,33.062,1.2635
+Czechia,Baseline ARIMA,21.7515,1.381
+Czechia,Grid Search ARIMA,20.097,1.276
+Czechia,Seasonal ARIMA,19.4248,1.2333
+Czechia,Auto ARIMA,21.0075,1.3338
+Estonia,Baseline ARIMA,6.3408,3.8045
+Estonia,Grid Search ARIMA,6.3408,3.8045
+Estonia,Seasonal ARIMA,6.632,3.9792
+Estonia,Auto ARIMA,6.7143,4.0286
+France,Baseline ARIMA,0.0223,0.0008
+France,Grid Search ARIMA,0.0332,0.0011
+France,Seasonal ARIMA,47.3718,1.6382
+France,Auto ARIMA,18.6667,0.6455
+Ireland,Baseline ARIMA,8.2615,1.8025
+Ireland,Grid Search ARIMA,10.2209,2.23
+Ireland,Seasonal ARIMA,9.6609,2.1078
+Ireland,Auto ARIMA,14.4669,3.1564
+Israel,Baseline ARIMA,4.1415,0.6902
+Israel,Grid Search ARIMA,4.1415,0.6902
+Israel,Seasonal ARIMA,12.4677,2.078
+Israel,Auto ARIMA,4.9773,0.8296
+Italy,Baseline ARIMA,136.04,1.3753
+Italy,Grid Search ARIMA,145.0188,1.4661
+Italy,Seasonal ARIMA,106.6664,1.0783
+Italy,Auto ARIMA,146.3025,1.479
+Malaysia,Baseline ARIMA,11.7076,2.8672
+Malaysia,Grid Search ARIMA,11.5275,2.8231
+Malaysia,Seasonal ARIMA,11.6148,2.8445
+Malaysia,Auto ARIMA,12.5618,3.0764

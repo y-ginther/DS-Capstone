@@ -1,0 +1,11 @@
+Country,Model,MAE,MASE
+US,Baseline ARIMA,391.962,0.553
+Belgium,Baseline ARIMA,0.8428,0.3161
+Chile,Baseline ARIMA,20.9385,0.8002
+Czechia,Baseline ARIMA,21.7515,1.381
+Estonia,Baseline ARIMA,6.3408,3.8045
+France,Baseline ARIMA,0.0223,0.0008
+Ireland,Baseline ARIMA,8.2615,1.8025
+Israel,Baseline ARIMA,4.1415,0.6902
+Italy,Baseline ARIMA,136.04,1.3753
+Malaysia,Baseline ARIMA,11.7076,2.8672

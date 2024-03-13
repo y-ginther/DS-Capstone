@@ -1,0 +1,21 @@
+Country,Model,MAE,MAPE,MASE
+United States,Baseline,1091.2607,4511.6704,0.1985
+United States,Tuned,6637.0522,16182.5113,1.2073
+ Belgium,Baseline,57.5385,2312.2549,0.2426
+ Belgium,Tuned,8.6421,33.644,0.0364
+ Chile,Baseline,214.634,2422.8058,0.4881
+ Chile,Tuned,82.8712,497.9259,0.1885
+ Chile,Baseline,16.4689,71.1626,0.0517
+ Czechia,Tuned,16.507,69.0335,0.0519
+ Estonia,Baseline,3.1669,51.8334,0.1634
+ Estonia,Tuned,3.0613,45.9822,0.1579
+ France,Baseline,177.6485,10599.4835,0.1721
+ France,Tuned,391.0824,29469.9572,0.3789
+ Ireland,Baseline,17.703,183.1569,0.2975
+ Ireland,Tuned,8.3236,129.5242,0.1399
+ Israel,Baseline,7.8477,140.7389,0.0811
+ Israel,Tuned,7.6585,64.3784,0.0792
+ Italy,Baseline,308.4966,1677.582,0.2655
+ Italy,Tuned,140.1001,97.4222,0.1206
+ Malaysia,Baseline,33.7796,1514.892,0.1098
+ Malaysia,Tuned,7.6585,65.2572,0.0249

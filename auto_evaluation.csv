@@ -1,0 +1,11 @@
+Country,Model,MAE,MASE
+US,Auto ARIMA,374.3304,0.5282
+Belgium,Auto ARIMA,0.0,0.0
+Chile,Auto ARIMA,33.062,1.2635
+Czechia,Auto ARIMA,21.0075,1.3338
+Estonia,Auto ARIMA,6.7143,4.0286
+France,Auto ARIMA,18.6667,0.6455
+Ireland,Auto ARIMA,14.4669,3.1564
+Israel,Auto ARIMA,4.9773,0.8296
+Italy,Auto ARIMA,146.3025,1.479
+Malaysia,Auto ARIMA,12.5618,3.0764

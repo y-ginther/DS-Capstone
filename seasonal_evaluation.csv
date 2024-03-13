@@ -1,0 +1,11 @@
+Country,Model,MAE,MASE
+US,Seasonal ARIMA,414.3116,0.5846
+Belgium,Seasonal ARIMA,4.5714,1.7143
+Chile,Seasonal ARIMA,15.1766,0.58
+Czechia,Seasonal ARIMA,19.4248,1.2333
+Estonia,Seasonal ARIMA,6.632,3.9792
+France,Seasonal ARIMA,47.3718,1.6382
+Ireland,Seasonal ARIMA,9.6609,2.1078
+Israel,Seasonal ARIMA,12.4677,2.078
+Italy,Seasonal ARIMA,106.6664,1.0783
+Malaysia,Seasonal ARIMA,11.6148,2.8445
